@@ -61,6 +61,18 @@ Head over to faucets.chain.link and get some testnet ETH. You should see the ETH
 
 ``` forge script script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY```
 
+# Estimate gas
+
+You can estimate how much gas things cost by running:
+
+`forge snapshot`
+
+And you'll see an output file called `.gas-snapshot`
+
+# Thank You!
+
+
+
 
 
 
