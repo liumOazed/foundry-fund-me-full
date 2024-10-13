@@ -7,15 +7,15 @@ This is a crowd sourcing app
 ## Requirement
 * Requirements
 * git
-You'll know you did it right if you can run `git --version` and you see a response like git version x.x.x
+You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
 foundry
-You'll know you did it right if you can run forge --version and you see a response like forge 0.2.0 (25f24e6 2024-09-28T00:21:16.976996664Z)
+You'll know you did it right if you can run `forge --version` and you see a response like `forge 0.2.0 (25f24e6 2024-09-28T00:21:16.976996664Z)`
 
 ## Quickstart
 
-``` https://github.com/liumOazed/foundry-fund-me-full.git```
-``` cd foundry-fund-me-full``
-``` make```
+```ttps://github.com/liumOazed/foundry-fund-me-full.git```
+```cd foundry-fund-me-full``
+```make```
 
 # Usage
 
