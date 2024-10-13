@@ -13,9 +13,9 @@ You'll know you did it right if you can run `forge --version` and you see a resp
 
 ## Quickstart
 
-```https://github.com/liumOazed/foundry-fund-me-full.git``` <br/>
-```cd foundry-fund-me-full`` <br/>
-```make```
+`https://github.com/liumOazed/foundry-fund-me-full.git` <br/>
+`cd foundry-fund-me-full` <br/>
+`make`
 
 # Usage
 
